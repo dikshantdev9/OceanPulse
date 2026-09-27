@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 328 185" role="img" aria-labelledby="title desc">
+  <title id="title">OceanPulse</title>
+  <desc id="desc">OceanPulse wave and heartbeat logo</desc>
+  <rect width="328" height="185" rx="8" fill="#fff"/>
+  <defs>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b3b78"/>
+      <stop offset="0.55" stop-color="#008fbe"/>
+      <stop offset="1" stop-color="#05a5c7"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#wave)" d="M72 72c0-25 20-45 45-45 18 0 33 10 41 25-8-5-17-8-27-8-21 0-38 17-38 38s17 38 38 38c13 0 24-6 31-16-7 22-27 38-50 38-22 0-40-17-40-38V72Z"/>
+  <path fill="#08a7c8" d="M76 78c14-7 22-19 32-28-5 10-4 23 4 31 11 12 28 13 40 5-8 12-21 19-36 19-18 0-34-11-40-27Z"/>
+  <path fill="none" stroke="#063c72" stroke-linecap="round" stroke-linejoin="round" stroke-width="7" d="M75 72c18-18 31-28 44-28 17 0 25 9 31 21 7 14 15 18 30 18h10l9-14 10 14 15-52 14 84 14-49 10 25h29"/>
+  <text x="44" y="153" fill="#063c72" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" letter-spacing="-1.5">OCEAN</text>
+  <text x="168" y="153" fill="#078ebc" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" letter-spacing="-1.5">PULSE</text>
+</svg>

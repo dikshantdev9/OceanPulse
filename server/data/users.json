@@ -1,0 +1,18 @@
+[
+  {
+    "id": "user-demo-001",
+    "name": "Demo Intelligence Officer",
+    "email": "demo@oceanpulse.ai",
+    "password": "$2b$10$VHBiXW72kfM//DN5LdXspugwtxNi5BQdp.NWwxVNfriNydy.2r5C6",
+    "role": "agency",
+    "createdAt": "2026-09-08T13:48:28.185Z"
+  },
+  {
+    "id": "user-1788875454449-s5370",
+    "name": "Surveillance Officer Kumar",
+    "email": "officer_1788875454386@oceanpulse.ai",
+    "password": "$2b$10$dZ9QgbEDQt3wXbnnv8wH6OHcY8ForQhxAia9UdnBe6xSqabsx0b3W",
+    "role": "agency",
+    "createdAt": "2026-09-08T13:50:54.449Z"
+  }
+]
